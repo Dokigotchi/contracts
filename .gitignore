@@ -1,0 +1,12 @@
+artifacts/
+cache/
+cache_hardhat/
+out/
+.env
+.env.testnet
+.DS_Store
+tmp/
+bin/
+lib
+node_modules
+lcov.info
